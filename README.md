@@ -28,7 +28,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="pathfinding_logo.png" alt="Logo" width="80" height="80">
+    <img src="images/pathfinding_logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Pathfinding Visualizer</h3>
