@@ -1,6 +1,5 @@
 [![HitCount](http://hits.dwyl.com/amijeet/Pathfinder.svg)](http://hits.dwyl.com/amijeet/Pathfinder)
 <!-- PROJECT LOGO -->
-<br />
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/Pathfinding">
     <img src="images/pathfinding_logo.png" alt="Logo" width="100" height="100">
