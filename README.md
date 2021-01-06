@@ -1,11 +1,12 @@
+[![HitCount](http://hits.dwyl.com/amijeet/Pathfinder.svg)](http://hits.dwyl.com/amijeet/Pathfinder)
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://en.wikipedia.org/wiki/Pathfinding">
     <img src="images/pathfinding_logo.png" alt="Logo" width="100" height="100">
   </a>
 
-  <h3 align="center">Pathfinding Visualizer</h3>
+  <h1 align="center">Pathfinding Visualizer</h1>
 
   <p align="center">
     A pathfinding visualizer project to find the shortest path between 2 nodes!
@@ -17,7 +18,7 @@
 
 In this project I have impemented a small pathfinder using only python3. Path finding is finding the shortest route between 2 points. One of the most popular pathfinding algorithms is the Dijkstra's algorithm. This algorithm begins with a start node and an open set of candidate nodes.  At each step, the node in the open set with the lowest distance from the start is examined. The node is marked "closed", and all nodes adjacent to it are added to the open set if they have not already been examined. This process repeats until a path to the destination has been found. Since the lowest distance nodes are examined first, the first time the destination is found, the path to it will be the shortest path. The code can be seen [here](https://github.com/amijeet/Pathfinder/blob/master/path_finder_clone.py).
 
-[![Product GIF][product-GIF]](https://example.com)
+[![Product GIF][product-GIF]](https://en.wikipedia.org/wiki/Pathfinding)
 
 <!-- USAGE EXAMPLES -->
 ## How to use
